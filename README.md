@@ -46,22 +46,18 @@ This app makes the most sense when it is used openly:
 - Open the screenshots folder directly from the tray icon
 - Single `.exe` — no Python installation required on the target machine
 
-## Screenshot of the tray menu
+## Screenshots
 
-```
-[ 📷 ]  ← tray icon
-  ├─ Pause          (toggle)
-  ├─ Open Folder
-  ├─ ───────────
-  ├─ Settings
-  ├─ ───────────
-  ├─ About
-  ├─ ───────────
-  └─ Quit
-```
+### Tray menu
+
+![Sardine Shot tray menu](screenshots/Screenshot%202026-04-02%20231004.png)
 
 `Pause` temporarily stops taking screenshots but keeps the app running in the tray.
 `Quit` closes the app completely.
+
+### Settings window
+
+![Sardine Shot settings window](screenshots/Screenshot%202026-04-02%20231053.png)
 
 ## Setup
 
